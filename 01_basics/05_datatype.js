@@ -34,3 +34,12 @@ const myfunc = function(){
 myfunc()
 
 console.log(myObj.name);
+
+// Stack -> Primitive  -> Copy pass hota hai
+
+// Heap -> NonPrimitve  -> By Refrence pass hota hai chize 
+
+
+
+
+
